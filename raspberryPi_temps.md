@@ -1,3 +1,5 @@
+#Raspberry Pi, Temp Sensors, and Elasticsearch
+
 Hi, it's my first time writing one of these guides. I spend so much time lurking on the internet for leisure and researching interesting stuff. I’m a bit of a nerd,  so most of that is spend on tech projects. I’m by no means a professional, just a very curious guy. The main motivation for writing this guide is, as Adam Savage once put it, [“the difference between screwin’ around and science… is writing it down”.](https://www.youtube.com/watch?v=BSUMBBFjxrY)
 
 This is a guide to assemble a raspberry pi weather station.  It will measure temperature, humidity, and (once I get my hands on a sensor) atmospheric pressure. This can be used as a data point for openweathermap.org too. I would like to figure out in the future if this can also be used as a temperature sensor to feed ~~Nest~~ Google's Nest, TBD.
